@@ -30,6 +30,7 @@ function WriteAnswer(){
   else {
   alert("Sorry,Please click the link behand to find the answer.");
   }
+}
 
   function button1(){
     alert("Sorry,the answer is incorrect.Try again.");
